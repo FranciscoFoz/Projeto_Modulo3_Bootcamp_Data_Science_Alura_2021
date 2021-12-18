@@ -26,7 +26,7 @@ Durante todo o Bootcamp irei mergulhar no oceano da Ciência de Dados a partir d
 
 ## Projeto  - TÍTULO
 
-Os dados utilizados para o projeto foram os dados dos boletins epidemiológicos da COVID-19 no Brasil extraídos do [Brasil.io](https://brasil.io/dataset/covid19/) (última atualização: 17 de 12 de 2021, acesso em 18 de 12 de 2021).
+Os dados utilizados para o projeto foram os dados dos boletins epidemiológicos da COVID-19 no Brasil extraídos do [Brasil.io](https://brasil.io/dataset/covid19/) (última atualização: 17 de dezembro de 2021, acesso em 18 de dezembro de 2021).
 
 
 Você poderá encontrar o notebook completo [aqui])
