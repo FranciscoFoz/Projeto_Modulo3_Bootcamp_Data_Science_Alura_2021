@@ -39,7 +39,7 @@ Você pode encontrar o dataset baixado por mim neste [link](https://drive.google
 
 ## Projeto
 
-Esta análise pretende explorar os dados dos casos de COVID-19 dos estados e municípios no Brasil, no período de entre 2020-2021. Realizar uma análise preditiva dos casos, no município que tive ro maior número de casos acumulados por habitante.
+Esta análise pretende explorar os dados dos casos de COVID-19 dos estados e municípios no Brasil, no período de entre 2020-2021. Realizar uma análise preditiva dos casos, no município que tiver o maior número de casos acumulados por habitante.
 
 Para se delimitar o estudo, buscarei entender qual foi o **estado com maior quantidade de casos por habitante** e dentre este estado qual foi o **município com maior quantidade de casos por habitante**.
 
@@ -62,18 +62,17 @@ O projeto foi dividido em três notebooks:
 
 ### **Considerações finais:**
 
-Quais são os números previstos para os próximos 30 dias no município selecionado?
 O projeto pode responder os questionamentos iniciais propostos, através da exploração e visualização dos dados.
 
-O estado com o maior índice de casos por habitante desde o início da pandemia (atualmente) é Roraima.
+O estado com o maior índice de casos por habitante desde o início da pandemia (atualmente) é **Roraima**.
 
 Mas nenhum dos 10 municípios com maior índice por habitante são deste estado, mas sim de Goiás, Amazonas, Rio Grande do Norte, Pará, Rio Grande do Sul, Paraná e Santa Catarina.
 
-Dentre o estado de Roraima o município com o maior índice de casos por habitante foi o de Boa Vista, capital do estado.
+Dentre o estado de **Roraima** o município com o maior índice de casos por habitante foi o de **Boa Vista**, capital do estado.
 
-Com o auxílio da biblioteca do Facebook Prophet, podemos observar que seja de 0 o número de novos casos de Covid-19 no município, no próximo mês. Entretanto, devemos entender que a ferramenta tomou como base os últimos dados para realizar a previsão e informações incerta como a nova variante Omicron não foram colocadas dentro da previsão.
+Com o auxílio da biblioteca do Facebook Prophet, podemos ovservar que será de 0 o número de novos casos de Covid-19 no município, no próximo mês. 
+Entretanto, devemos entender que a ferramenta tomou como base os últimos dados para realizar a previsão e informações incertas como a nova variante [Omicron](https://www.who.int/news/item/28-11-2021-update-on-omicron) não foram colocadas dentro da previsão.
 
-Com o aumento da cobertura vacinal da população, podemos ter uma previsão de menores quantidade de casos.
+Com o aumento da cobertura vacinal da população, podemos ter uma previsão de menores quantidade de casos. 
 
 Mas é importante lembrarmos que a pandemia não acabou e devemos continuar nos prevenindo ao máximo com todas as medidas de segurança para que não haja novos casos.
-
